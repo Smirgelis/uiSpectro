@@ -1,0 +1,22 @@
+{
+  "name": "uispectro",
+  "version": "1.0.0",
+  "description": "ui test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ManfredasMi/uiSpectro.git"
+  },
+  "author": "MM",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ManfredasMi/uiSpectro/issues"
+  },
+  "homepage": "https://github.com/ManfredasMi/uiSpectro#readme",
+  "devDependencies": {
+    "cypress": "^6.1.0"
+  }
+}
